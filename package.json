@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.15.3",
+    "express": "^4.16.4",
     "fs": "0.0.1-security",
     "jest": "^24.5.0",
     "lint": "^1.1.2"
