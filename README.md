@@ -6,7 +6,7 @@
 ### Author: Spencer Hirata
 
 ### Links and Resources
-* [pr]()
+* [pr](https://github.com/401-advanced-js/lab-04/pull/1)
 * [![Build Status](https://travis-ci.com/401-advanced-js/lab-04.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-04)
 * [Heroku](https://sh401lab04.herokuapp.com/)
 
